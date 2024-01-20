@@ -5,9 +5,9 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-WORKDIR /nezuko
+WORKDIR /nexus
 
-COPY . /nezuko
+COPY . /nexus
 
 RUN yarn
 

@@ -1,7 +1,7 @@
 {
-  "name": "Nezuko",
+  "name": "Nexus",
   "version": "4.0.0",
-  "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
+  "description": "WhatsApp bot",
   "main": "heart.js",
   "type": "commonjs",
   "dependencies": {
@@ -58,8 +58,8 @@
     "start": "node --max_old_space_size=8192 heart.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Eternity-Team",
+  "author": "Smith",
   "license": "AGPL-3.0",
-  "repository": "https://github.com/EternityBots/Nezuko.git",
+  "repository": "https://github.com/Nexus07z/Nexus",
   "private": false
 }

@@ -1,13 +1,13 @@
 {
-    "name": "Nezuko",
-    "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
+    "name": "Nexus",
+    "description": "WhatsApp bot",
     "keywords": [
         "bot",
         "whatsapp"
     ],
     "logo": "https://avatars.githubusercontent.com/u/117456661",
-    "website": "https://github.com/EternityBots/Nezuko",
-    "repository": "https://github.com/EternityBots/Nezuko.git",
+    "website": "hthttps://github.com/Nexus07z/Nexus",
+    "repository": "https://github.com/Nexus07z/Nexus",
     "success_url": "/",
     "env": {
         "PREFIX": {
